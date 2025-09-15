@@ -10,12 +10,12 @@ Each project demonstrates different Flutter concepts, from basic widgets to adva
 
 | Project | Description |
 |---------|-------------|
-| **basics_app** | First Flutter app – practicing widgets, layouts, and hot reload. |
+| **first_app** | First Flutter app – practicing widgets, layouts, and hot reload. |
 | **quiz_app** | Interactive quiz with multiple-choice questions and results screen. |
 | **expenses_tracker** | Personal expense tracker with charts, date filtering, and data persistence. |
 | **meals_app** | Recipes app with navigation, tabs, and filters. |
-| **shop_app** | Shopping app with provider state management, cart, and orders. |
-| **great_places_app** | Location-based app using device camera & maps. |
+| **shopping_list_app** | Shopping app with provider state management, cart, and orders. |
+| **favorite_places_app** | Location-based app using device camera & maps. |
 | **chat_app** | Real-time chat using Firebase authentication and storage. |
 
 ---
